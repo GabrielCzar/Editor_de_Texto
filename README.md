@@ -88,11 +88,3 @@ Pense na movimentação também como um comando. Cada Z volta um comando.
     m>to
     eu-te-mato
 
-Perceba que como no seu editor, se você der C-Z e depois escrever algo, você
-perderá o que tinha escrito e não poderá mais dar redo.
-
-
-struct action{
-    function execute
-    function undo
-}
